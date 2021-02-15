@@ -1,5 +1,6 @@
 {
   "hosting": {
+	"site":"hermit-z",
     "public": "public",
     "ignore": [
       "firebase.json",
